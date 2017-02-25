@@ -1,0 +1,5 @@
+.idea/*
+adminer/*
+.buildpath
+.project
+.settings/
